@@ -172,8 +172,4 @@ MIT License
 
 ## 作者
 
-张开发 - 高级全栈工程师
-
----
-
-Made with ❤️ and React
+Bandwe通过trae使用Kimi-k2.5开发
